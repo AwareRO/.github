@@ -1,8 +1,6 @@
-![Aware Soft Logo](https://github.com/AwareRO/.github/blob/main/profile/logo-light.png)
+Coming Soon
 
-# Coming Soon
-
-
+![Aware Soft Logo](logo-dark.png)
 
 ![Leverage Craft Logo](lvg-black.svg)
 
