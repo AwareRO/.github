@@ -1,4 +1,4 @@
-![Aware Soft Logo](profile/logo-light.png)
+![Aware Soft Logo](profile/logo-dark.png)
 
 # Parteners
 ![Leverage Craft Logo](profile/lvg-black.svg)
