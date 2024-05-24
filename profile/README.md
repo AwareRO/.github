@@ -1,4 +1,5 @@
 ![Aware Soft Logo](profile/logo-dark.png)
+<img src="profile/logo-dark.png" alt="Aware Soft Logo" width="100"/>
 
 # Aware Soft
 Software development company
