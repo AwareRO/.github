@@ -1,5 +1,8 @@
 ![Aware Soft Logo](profile/logo-dark.png)
 
+# Aware Soft
+Software development company
+
 # Parteners
 ![Leverage Craft Logo](profile/lvg-black.svg)
 ![Scrape the world](profile/scrape_the_world.jpeg)
