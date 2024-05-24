@@ -1,4 +1,4 @@
-<div><a href="https://github.com/AwareRO">![Aware Soft Logo](profile/logo-dark.png)</a></div>
+<div><a href="https://github.com/AwareRO"><img src="profile/logo-dark.png" alt="Aware Soft Logo"/></a></div>
 
 # Aware Soft
 Software development company
