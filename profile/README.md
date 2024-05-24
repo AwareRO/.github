@@ -1,7 +1,9 @@
-Coming Soon
+![Aware Soft Logo](profile/logo-light.png)
 
-![Aware Soft Logo](profile/logo-dark.png)
+# Parteners
+![Leverage Craft Logo](profile/lvg-black.svg)
+![Scrape the world](profile/scrape_the_world.jpeg)
 
-![Leverage Craft Logo](profile/lvg-black.svg?raw=true)
-
-![Xcessium Logo](xcessium_main_logo.svg)
+# Live projects
+![Aceveri](profile/Aceveri-main-logo.svg)
+![Xcessium Logo](profile/xcessium_main_logo.svg)
