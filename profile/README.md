@@ -1,6 +1,5 @@
 <div><a href="https://github.com/AwareRO"><img src="profile/logo-dark.png" alt="Aware Soft Logo"/></a></div>
 
-# Aware Soft
 Software development company
 
 # Parteners
