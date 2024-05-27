@@ -32,9 +32,9 @@
 
 ### Live projects
 <div align="center">
-<a href="https://aceveri.ro"><img src="profile/Aceveri-main-logo.svg" alt="Aceveri Logo" width="140"/></a>
-<a href="https://xcessium.com"><img src="profile/xcessium_main_logo.svg" alt="Xcessium Logo" width="140"/></a>
-<a href="https://qr.aware.ro"><img src="profile/qr_logo.svg" alt="QR Aware Logo" width="140"/></a>
+<a href="https://aceveri.ro"><img src="profile/aceveri.png" alt="Aceveri Logo" width="140"/></a>
+<a href="https://xcessium.com"><img src="profile/xcessium.png" alt="Xcessium Logo" width="140"/></a>
+<a href="https://qr.aware.ro"><img src="profile/qr-aware.png" alt="QR Aware Logo" width="140"/></a>
 </div>
 <div align="center">
 <a href="https://lp.aware.ro"><img src="profile/lp_logo.svg" alt="LP Aware Logo" width="140"/></a>
