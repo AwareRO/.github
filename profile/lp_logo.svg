@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 163 71" width="163" height="71">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="163" height="71" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 71.5 25.5)"><path d="M12.75 0 C57.02 0.31, 106.07 0.87, 130.25 0 M12.75 0 C54.13 -1.88, 94.45 -0.05, 130.25 0 M130.25 0 C139.34 -0.74, 142.5 3.2, 143 12.75 M130.25 0 C140.52 -2.3, 143.71 5.02, 143 12.75 M143 12.75 C144.57 18.74, 142.63 27.35, 143 38.25 M143 12.75 C143.75 17.88, 143.16 23.57, 143 38.25 M143 38.25 C142.96 45.16, 139.21 49.89, 130.25 51 M143 38.25 C140.81 48.13, 138.29 52.96, 130.25 51 M130.25 51 C82.59 49.94, 37.26 51.99, 12.75 51 M130.25 51 C88.99 50.79, 47.46 50.97, 12.75 51 M12.75 51 C4.77 50.13, 0.4 48.09, 0 38.25 M12.75 51 C2.55 52.24, -1.33 47.19, 0 38.25 M0 38.25 C-1.75 31.82, 1.27 20.23, 0 12.75 M0 38.25 C-0.56 28.36, 0.8 17.56, 0 12.75 M0 12.75 C-0.98 6.24, 3.19 1.47, 12.75 0 M0 12.75 C1.66 5.64, 4.35 -1.59, 12.75 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(15.241668701171875 23) rotate(0 66.25833129882812 12.5)"><text x="66.25833129882812" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">License Plate</text></g></svg>
