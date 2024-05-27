@@ -1,7 +1,6 @@
 <div><a href="https://github.com/AwareRO"><img src="profile/logo-dark.png" alt="Aware Soft Logo"/></a></div>
 
-# Aware Soft
-Software development company
+# Software development company
 
 # Parteners
 <a href="https://leveragecraft.com"><img src="profile/lvg-black.svg" alt="Leverage Craft Logo" width="140"/></a>
