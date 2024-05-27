@@ -2,9 +2,9 @@
 
 # Software development company
 
-# Technology
+### Technology
 <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img alt="Golang" width="30px" rc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img alt="Golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img alt="Debian" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
@@ -15,13 +15,13 @@
 <img alt="Wordpress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 <img alt="Hugo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" />
 
-# Parteners
+### Parteners
 <div align="center">
 <a href="https://leveragecraft.com"><img src="profile/lvg-black.svg" alt="Leverage Craft Logo" width="140"/></a>
 <a href="https://www.linkedin.com/company/scrape-the-world"><img src="profile/scrape_the_world.jpeg" alt="Scrape the world" width="100"/></a>
 </div>
 
-# Live projects
+### Live projects
 <div align="center">
 <a href="https://aceveri.ro"><img src="profile/Aceveri-main-logo.svg" alt="Aceveri Logo" width="140"/></a>
 <a href="https://xcessium.com"><img src="profile/xcessium_main_logo.svg" alt="Xcessium Logo" width="140"/></a>
