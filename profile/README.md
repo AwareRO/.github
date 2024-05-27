@@ -3,6 +3,7 @@
 # Software development company
 
 ### Technology
+<div align="center">
 <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img alt="Golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -14,6 +15,7 @@
 <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img alt="Wordpress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 <img alt="Hugo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" />
+</div>
 
 ### Parteners
 <div align="center">
