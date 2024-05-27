@@ -25,7 +25,7 @@
 ### Parteners
 <div align="center">
 <a href="https://leveragecraft.com"><img src="profile/lvg-black.svg" alt="Leverage Craft Logo" width="140"/></a>
-<a href="https://www.linkedin.com/company/scrape-the-world"><img src="profile/scrape_the_world.jpeg" alt="Scrape the world" width="100"/></a>
+<a href="https://www.linkedin.com/company/scrape-the-world"><img src="profile/scrape_the_world.jpeg" alt="Scrape the world" width="50"/></a>
 </div>
 
 #
