@@ -25,25 +25,25 @@
 ### Parteners
 <div align="center">
 <a href="https://leveragecraft.com"><img src="leverage.png" alt="Leverage Craft Logo" width="140"/></a>
-<a href="https://www.linkedin.com/company/scrape-the-world"><img src="profile/scrape-the-world.png" alt="Scrape the world" width="140"/></a>
-<a href="https://leveragecraft.com"><img src="profile/ohm-logo.png" alt="OHM SoftWorks Logo" width="140"/></a>
+<a href="https://www.linkedin.com/company/scrape-the-world"><img src="scrape-the-world.png" alt="Scrape the world" width="140"/></a>
+<a href="https://leveragecraft.com"><img src="ohm-logo.png" alt="OHM SoftWorks Logo" width="140"/></a>
 </div>
 
 #
 
 ### Live projects
 <div align="center">
-<a href="https://xcessium.com"><img src="profile/xcessium.png" alt="Xcessium Logo" width="140"/></a>
-<a href="https://qr.aware.ro"><img src="profile/qr-aware.png" alt="QR Aware Logo" width="140"/></a>
+<a href="https://xcessium.com"><img src="xcessium.png" alt="Xcessium Logo" width="140"/></a>
+<a href="https://qr.aware.ro"><img src="qr-aware.png" alt="QR Aware Logo" width="140"/></a>
 </div>
 <div align="center">
-<a href="https://lp.aware.ro"><img src="profile/license-plate.png" alt="LP Aware Logo" width="140"/></a>
-<a href="https://hvnly.ro"><img src="profile/hvnly.png" alt="Hvnly Logo" width="140"/></a>
-<a href="https://vicabeauty.ro"><img src="profile/vica.png" alt="Vicabeauty Logo" width="140"/></a>
+<a href="https://lp.aware.ro"><img src="license-plate.png" alt="LP Aware Logo" width="140"/></a>
+<a href="https://hvnly.ro"><img src="hvnly.png" alt="Hvnly Logo" width="140"/></a>
+<a href="https://vicabeauty.ro"><img src="vica.png" alt="Vicabeauty Logo" width="140"/></a>
 </div>
 <div align="center">
-<a href="https://eaglescluj.ro"><img src="profile/eagles.png" alt="EaglesCluj Logo" width="100"/></a>
-<a href="https://twolves.aware.ro"><img src="profile/wolves.png" alt="Thunder Wolves Logo" width="100"/></a>
+<a href="https://eaglescluj.ro"><img src="eagles.png" alt="EaglesCluj Logo" width="100"/></a>
+<a href="https://twolves.aware.ro"><img src="wolves.png" alt="Thunder Wolves Logo" width="100"/></a>
 </div>
 
 #
