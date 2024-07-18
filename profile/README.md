@@ -1,4 +1,4 @@
-<div align="center"><a href="https://github.com/AwareRO"><img src="profile/logo-dark.png" alt="Aware Soft Logo"/></a></div>
+<div align="center"><a href="https://github.com/AwareRO"><img src="logo-dark.png" alt="Aware Soft Logo"/></a></div>
 
 # Software development company
 
@@ -33,6 +33,7 @@
 
 ### Live projects
 <div align="center">
+<a href="https://aceveri.ro"><img src="aceveri.png" alt="Aceveri Logo" width="140"/></a>
 <a href="https://xcessium.com"><img src="xcessium.png" alt="Xcessium Logo" width="140"/></a>
 <a href="https://qr.aware.ro"><img src="qr-aware.png" alt="QR Aware Logo" width="140"/></a>
 </div>
