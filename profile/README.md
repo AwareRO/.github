@@ -45,7 +45,6 @@
 <a href="https://vicabeauty.ro"><img src="vica.png" alt="Vicabeauty Logo" width="140"/></a>
 </div>
 <div align="center">
-<a href="https://eaglescluj.ro"><img src="eagles.png" alt="EaglesCluj Logo" width="100"/></a>
 <a href="https://twolves.aware.ro"><img src="wolves.png" alt="Thunder Wolves Logo" width="100"/></a>
 </div>
 
