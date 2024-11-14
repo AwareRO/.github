@@ -44,9 +44,11 @@
 <a href="https://hvnly.ro"><img src="hvnly.png" alt="Hvnly Logo" width="140"/></a>
 <a href="https://vicabeauty.ro"><img src="vica.png" alt="Vicabeauty Logo" width="140"/></a>
 </div>
+<div align="center">
 <a href="https://fountainmap.com"><img src="fountainmap.png" alt="Fountain Map Logo" width="140"/></a>
 <a href="https://publictoiletmap.com"><img src="publictoilet.png" alt="Public Toilet Map Logo" width="140"/></a>
 <a href="https://placurece.ro"><img src="placurece.png" alt="Placurece Logo" width="140"/></a>
+</div>
 <div align="center">
 <a href="https://twolves.aware.ro"><img src="wolves.png" alt="Thunder Wolves Logo" width="100"/></a>
 </div>
